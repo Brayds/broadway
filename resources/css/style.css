@@ -1,0 +1,30 @@
+html{
+  text-align: center;
+  font-family: helvetica;
+}
+p.header{
+  background-image: "./broadway/resources/the-flatiron-building.png"
+}
+h1{
+  font-size: 70px;
+  font-weight: 70px;
+  color: white;
+}
+nav{
+  font-size: 18px;
+  color: white;
+}
+h2.process{
+  font-size: 32px;
+  font-weight: bold;
+}
+h3{
+  font-weight: bold;
+  font-size: 23px;
+}
+#white{
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url('./broadway/resources/the-flatiron-building.png');
+}
