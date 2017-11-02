@@ -34,3 +34,9 @@ p.footer{
   color: white;
   background-color: dimgray;
 }
+a:visited {
+  color: white;
+}
+a {
+  color: white;
+} 
